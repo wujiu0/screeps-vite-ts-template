@@ -17,6 +17,7 @@
 
 [代码目录配置](screeps.config.js)
 修改其中的 targetDir: 游戏所在本地路径的代码目录
+
 eg: "C:\\Users\\Username\\AppData\\Local\\Screeps\\scripts\\screeps.com\\default"
 
 ### use
