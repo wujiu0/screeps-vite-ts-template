@@ -1,6 +1,6 @@
 export const screepsConfig = {
     // build outputDir
-    sourceDir: 'dist',
+    sourceDir: 'dist/*',
 
     // copy targetDir(game scripts folder)
     targetDir: '#'

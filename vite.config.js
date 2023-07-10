@@ -19,6 +19,8 @@ export default {
             },
             plugins: [
                 copy({
+                    verbose: false,
+                    hook: 'closeBundle',
                     targets: [
                         {
                             src: screepsConfig.sourceDir,
